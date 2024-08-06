@@ -1,0 +1,394 @@
+train_loss: 0.14347288012504578, step : 200
+train_loss: 0.09826436638832092, step : 400
+Epoch	1	Loss	0.0
+train_loss: 0.06975103914737701, step : 600
+train_loss: 0.054357483983039856, step : 800
+Epoch	2	Loss	0.0
+train_loss: 0.05955325812101364, step : 1000
+train_loss: 0.051774002611637115, step : 1200
+Epoch	3	Loss	0.0
+train_loss: 0.040278930217027664, step : 1400
+train_loss: 0.03788759931921959, step : 1600
+Epoch	4	Loss	0.0
+train_loss: 0.04206998646259308, step : 1800
+train_loss: 0.033854518085718155, step : 2000
+Epoch	5	Loss	0.0
+train_loss: 0.02860086038708687, step : 2200
+train_loss: 0.02938045747578144, step : 2400
+Epoch	6	Loss	0.0
+train_loss: 0.03563864156603813, step : 2600
+train_loss: 0.028568027541041374, step : 2800
+Epoch	7	Loss	0.0
+train_loss: 0.029961703345179558, step : 3000
+train_loss: 0.02158854529261589, step : 3200
+Epoch	8	Loss	0.0
+train_loss: 0.03032052144408226, step : 3400
+train_loss: 0.03192266449332237, step : 3600
+Epoch	9	Loss	0.0
+train_loss: 0.024350883439183235, step : 3800
+train_loss: 0.021433426067233086, step : 4000
+Epoch	10	Loss	0.0
+train_loss: 0.026448145508766174, step : 4200
+train_loss: 0.026754455640912056, step : 4400
+Epoch	11	Loss	0.0
+train_loss: 0.01828846149146557, step : 4600
+train_loss: 0.024908043444156647, step : 4800
+train_loss: 0.018020344898104668, step : 5000
+Epoch	12	Loss	0.0
+train_loss: 0.016177382320165634, step : 5200
+train_loss: 0.02214372530579567, step : 5400
+Epoch	13	Loss	0.0
+train_loss: 0.01612016186118126, step : 5600
+train_loss: 0.01698281615972519, step : 5800
+Epoch	14	Loss	0.0
+train_loss: 0.02108103595674038, step : 6000
+train_loss: 0.019167635589838028, step : 6200
+Epoch	15	Loss	0.0
+train_loss: 0.018536940217018127, step : 6400
+train_loss: 0.02048354037106037, step : 6600
+Epoch	16	Loss	0.0
+train_loss: 0.017160778865218163, step : 6800
+train_loss: 0.01848921924829483, step : 7000
+Epoch	17	Loss	0.0
+train_loss: 0.016101378947496414, step : 7200
+train_loss: 0.01668613776564598, step : 7400
+Epoch	18	Loss	0.0
+train_loss: 0.01410940196365118, step : 7600
+train_loss: 0.019925573840737343, step : 7800
+Epoch	19	Loss	0.0
+train_loss: 0.013311760500073433, step : 8000
+train_loss: 0.015257075428962708, step : 8200
+Epoch	20	Loss	0.0
+train_loss: 0.014038119465112686, step : 8400
+train_loss: 0.01142166182398796, step : 8600
+Epoch	21	Loss	0.0
+train_loss: 0.017627185210585594, step : 8800
+train_loss: 0.02297220192849636, step : 9000
+Epoch	22	Loss	0.0
+train_loss: 0.014415652491152287, step : 9200
+train_loss: 0.01773286797106266, step : 9400
+Epoch	23	Loss	0.0
+train_loss: 0.019098343327641487, step : 9600
+train_loss: 0.017695138230919838, step : 9800
+train_loss: 0.02038438804447651, step : 10000
+Epoch	24	Loss	0.0
+train_loss: 0.016529632732272148, step : 10200
+train_loss: 0.010927487164735794, step : 10400
+Epoch	25	Loss	0.0
+train_loss: 0.01367250457406044, step : 10600
+train_loss: 0.010643166489899158, step : 10800
+Epoch	26	Loss	0.0
+train_loss: 0.015237580984830856, step : 11000
+train_loss: 0.013080324977636337, step : 11200
+Epoch	27	Loss	0.0
+train_loss: 0.015288771130144596, step : 11400
+train_loss: 0.010983655229210854, step : 11600
+Epoch	28	Loss	0.0
+train_loss: 0.01585070602595806, step : 11800
+train_loss: 0.016092928126454353, step : 12000
+Epoch	29	Loss	0.0
+train_loss: 0.010026187635958195, step : 12200
+train_loss: 0.014362684451043606, step : 12400
+Epoch	30	Loss	0.0
+train_loss: 0.01988009735941887, step : 12600
+train_loss: 0.024171536788344383, step : 12800
+Epoch	31	Loss	0.0
+train_loss: 0.0194221343845129, step : 13000
+train_loss: 0.010805035009980202, step : 13200
+Epoch	32	Loss	0.0
+train_loss: 0.013054191134870052, step : 13400
+train_loss: 0.014526312239468098, step : 13600
+Epoch	33	Loss	0.0
+train_loss: 0.016016624867916107, step : 13800
+train_loss: 0.015038215555250645, step : 14000
+Epoch	34	Loss	0.0
+train_loss: 0.01975172944366932, step : 14200
+train_loss: 0.012722953222692013, step : 14400
+Epoch	35	Loss	0.0
+train_loss: 0.013905822299420834, step : 14600
+train_loss: 0.014236465096473694, step : 14800
+train_loss: 0.014375475235283375, step : 15000
+Epoch	36	Loss	0.0
+train_loss: 0.009721603244543076, step : 15200
+train_loss: 0.01539104524999857, step : 15400
+Epoch	37	Loss	0.0
+train_loss: 0.01709129847586155, step : 15600
+train_loss: 0.018222475424408913, step : 15800
+Epoch	38	Loss	0.0
+train_loss: 0.012203884311020374, step : 16000
+train_loss: 0.017060665413737297, step : 16200
+Epoch	39	Loss	0.0
+train_loss: 0.009408639743924141, step : 16400
+train_loss: 0.01401249598711729, step : 16600
+Epoch	40	Loss	0.0
+train_loss: 0.015058892779052258, step : 16800
+train_loss: 0.011465485207736492, step : 17000
+Epoch	41	Loss	0.0
+train_loss: 0.015825850889086723, step : 17200
+train_loss: 0.02087448537349701, step : 17400
+Epoch	42	Loss	0.0
+train_loss: 0.016034850850701332, step : 17600
+train_loss: 0.015106949023902416, step : 17800
+Epoch	43	Loss	0.0
+train_loss: 0.01577059179544449, step : 18000
+train_loss: 0.017397165298461914, step : 18200
+Epoch	44	Loss	0.0
+train_loss: 0.01697700098156929, step : 18400
+train_loss: 0.012495189905166626, step : 18600
+Epoch	45	Loss	0.0
+train_loss: 0.013547181151807308, step : 18800
+train_loss: 0.01603415422141552, step : 19000
+Epoch	46	Loss	0.0
+train_loss: 0.010846966877579689, step : 19200
+train_loss: 0.007081952411681414, step : 19400
+Epoch	47	Loss	0.0
+train_loss: 0.012949815019965172, step : 19600
+train_loss: 0.009905877523124218, step : 19800
+train_loss: 0.009328296408057213, step : 20000
+Epoch	48	Loss	0.0
+train_loss: 0.013916870579123497, step : 20200
+train_loss: 0.010741603560745716, step : 20400
+Epoch	49	Loss	0.0
+train_loss: 0.012230725027620792, step : 20600
+train_loss: 0.01474791206419468, step : 20800
+Epoch	50	Loss	0.0
+train_loss: 0.017253223806619644, step : 21000
+train_loss: 0.00950525887310505, step : 21200
+Epoch	51	Loss	0.0
+train_loss: 0.016624728217720985, step : 21400
+train_loss: 0.012658430263400078, step : 21600
+Epoch	52	Loss	0.0
+train_loss: 0.015211189165711403, step : 21800
+train_loss: 0.011771785095334053, step : 22000
+Epoch	53	Loss	0.0
+train_loss: 0.008569419384002686, step : 22200
+train_loss: 0.011074023321270943, step : 22400
+Epoch	54	Loss	0.0
+train_loss: 0.008847584947943687, step : 22600
+train_loss: 0.012714813463389874, step : 22800
+Epoch	55	Loss	0.0
+train_loss: 0.00790084432810545, step : 23000
+train_loss: 0.013756319880485535, step : 23200
+Epoch	56	Loss	0.0
+train_loss: 0.011151451617479324, step : 23400
+train_loss: 0.012447935529053211, step : 23600
+Epoch	57	Loss	0.0
+train_loss: 0.015300695784389973, step : 23800
+train_loss: 0.012560221366584301, step : 24000
+Epoch	58	Loss	0.0
+train_loss: 0.009733743034303188, step : 24200
+train_loss: 0.008464443497359753, step : 24400
+train_loss: 0.013971228152513504, step : 24600
+Epoch	59	Loss	0.0
+train_loss: 0.01079233642667532, step : 24800
+train_loss: 0.011975662782788277, step : 25000
+Epoch	60	Loss	0.0
+train_loss: 0.011213138699531555, step : 25200
+train_loss: 0.009602981619536877, step : 25400
+Epoch	61	Loss	0.0
+train_loss: 0.017049869522452354, step : 25600
+train_loss: 0.013081119395792484, step : 25800
+Epoch	62	Loss	0.0
+train_loss: 0.014083256013691425, step : 26000
+train_loss: 0.01144187431782484, step : 26200
+Epoch	63	Loss	0.0
+train_loss: 0.009332256391644478, step : 26400
+train_loss: 0.011546522378921509, step : 26600
+Epoch	64	Loss	0.0
+train_loss: 0.010875672101974487, step : 26800
+train_loss: 0.009160869754850864, step : 27000
+Epoch	65	Loss	0.0
+train_loss: 0.011321928352117538, step : 27200
+train_loss: 0.012813330627977848, step : 27400
+Epoch	66	Loss	0.0
+train_loss: 0.01227854285389185, step : 27600
+train_loss: 0.011526280082762241, step : 27800
+Epoch	67	Loss	0.0
+train_loss: 0.01605355180799961, step : 28000
+train_loss: 0.013004257343709469, step : 28200
+Epoch	68	Loss	0.0
+train_loss: 0.009878736920654774, step : 28400
+train_loss: 0.01201928872615099, step : 28600
+Epoch	69	Loss	0.0
+train_loss: 0.00967866275459528, step : 28800
+train_loss: 0.008993730880320072, step : 29000
+Epoch	70	Loss	0.0
+train_loss: 0.013645758852362633, step : 29200
+train_loss: 0.01151422131806612, step : 29400
+train_loss: 0.01220379676669836, step : 29600
+Epoch	71	Loss	0.0
+train_loss: 0.011628209613263607, step : 29800
+train_loss: 0.012749414891004562, step : 30000
+Epoch	72	Loss	0.0
+train_loss: 0.008829099126160145, step : 30200
+train_loss: 0.011051759123802185, step : 30400
+Epoch	73	Loss	0.0
+train_loss: 0.009376873262226582, step : 30600
+train_loss: 0.013456838205456734, step : 30800
+Epoch	74	Loss	0.0
+train_loss: 0.01092839241027832, step : 31000
+train_loss: 0.014048599638044834, step : 31200
+Epoch	75	Loss	0.0
+train_loss: 0.013419480063021183, step : 31400
+train_loss: 0.013813323341310024, step : 31600
+Epoch	76	Loss	0.0
+train_loss: 0.012438610196113586, step : 31800
+train_loss: 0.009461307898163795, step : 32000
+Epoch	77	Loss	0.0
+train_loss: 0.009603643789887428, step : 32200
+train_loss: 0.008143001236021519, step : 32400
+Epoch	78	Loss	0.0
+train_loss: 0.010430384427309036, step : 32600
+train_loss: 0.013808907009661198, step : 32800
+Epoch	79	Loss	0.0
+train_loss: 0.008164874278008938, step : 33000
+train_loss: 0.007793344557285309, step : 33200
+Epoch	80	Loss	0.0
+train_loss: 0.010190576314926147, step : 33400
+train_loss: 0.01279559638351202, step : 33600
+Epoch	81	Loss	0.0
+train_loss: 0.010324416682124138, step : 33800
+train_loss: 0.012818152084946632, step : 34000
+Epoch	82	Loss	0.0
+train_loss: 0.012692696414887905, step : 34200
+train_loss: 0.010781753808259964, step : 34400
+train_loss: 0.014093792997300625, step : 34600
+Epoch	83	Loss	0.0
+train_loss: 0.01345012430101633, step : 34800
+train_loss: 0.010686072520911694, step : 35000
+Epoch	84	Loss	0.0
+train_loss: 0.021051650866866112, step : 35200
+train_loss: 0.011160299181938171, step : 35400
+Epoch	85	Loss	0.0
+train_loss: 0.007601827383041382, step : 35600
+train_loss: 0.011034118942916393, step : 35800
+Epoch	86	Loss	0.0
+train_loss: 0.013523442670702934, step : 36000
+train_loss: 0.00933829601854086, step : 36200
+Epoch	87	Loss	0.0
+train_loss: 0.00569467106834054, step : 36400
+train_loss: 0.012315463274717331, step : 36600
+Epoch	88	Loss	0.0
+train_loss: 0.009795964695513248, step : 36800
+train_loss: 0.010640824213624, step : 37000
+Epoch	89	Loss	0.0
+train_loss: 0.012334930710494518, step : 37200
+train_loss: 0.012081906199455261, step : 37400
+Epoch	90	Loss	0.0
+train_loss: 0.009206919930875301, step : 37600
+train_loss: 0.0070867077447474, step : 37800
+Epoch	91	Loss	0.0
+train_loss: 0.009371251799166203, step : 38000
+train_loss: 0.01203969120979309, step : 38200
+Epoch	92	Loss	0.0
+train_loss: 0.011494271457195282, step : 38400
+train_loss: 0.013405284844338894, step : 38600
+Epoch	93	Loss	0.0
+train_loss: 0.015397414565086365, step : 38800
+train_loss: 0.010103749111294746, step : 39000
+Epoch	94	Loss	0.0
+train_loss: 0.011091005988419056, step : 39200
+train_loss: 0.006827009376138449, step : 39400
+train_loss: 0.011469907127320766, step : 39600
+Epoch	95	Loss	0.0
+train_loss: 0.009649219922721386, step : 39800
+train_loss: 0.011747593060135841, step : 40000
+Epoch	96	Loss	0.0
+train_loss: 0.010127834975719452, step : 40200
+train_loss: 0.011289654299616814, step : 40400
+Epoch	97	Loss	0.0
+train_loss: 0.00896834209561348, step : 40600
+train_loss: 0.012214325368404388, step : 40800
+Epoch	98	Loss	0.0
+train_loss: 0.010409735143184662, step : 41000
+train_loss: 0.013372127898037434, step : 41200
+Epoch	99	Loss	0.0
+train_loss: 0.009545083157718182, step : 41400
+train_loss: 0.013807780109345913, step : 41600
+Epoch	100	Loss	0.0
+train_loss: 0.012303614057600498, step : 41800
+train_loss: 0.012097063474357128, step : 42000
+Epoch	101	Loss	0.0
+train_loss: 0.011771800927817822, step : 42200
+train_loss: 0.009193473495543003, step : 42400
+Epoch	102	Loss	0.0
+train_loss: 0.010590571910142899, step : 42600
+train_loss: 0.008000983856618404, step : 42800
+Epoch	103	Loss	0.0
+train_loss: 0.006872460246086121, step : 43000
+train_loss: 0.00961208064109087, step : 43200
+Epoch	104	Loss	0.0
+train_loss: 0.009331612847745419, step : 43400
+train_loss: 0.009434320963919163, step : 43600
+Epoch	105	Loss	0.0
+train_loss: 0.011316349729895592, step : 43800
+train_loss: 0.008429554291069508, step : 44000
+train_loss: 0.010064158588647842, step : 44200
+Epoch	106	Loss	0.0
+train_loss: 0.011582717299461365, step : 44400
+train_loss: 0.010096230544149876, step : 44600
+Epoch	107	Loss	0.0
+train_loss: 0.008241855539381504, step : 44800
+train_loss: 0.010569524951279163, step : 45000
+Epoch	108	Loss	0.0
+train_loss: 0.011432559229433537, step : 45200
+train_loss: 0.013969034887850285, step : 45400
+Epoch	109	Loss	0.0
+train_loss: 0.010869988240301609, step : 45600
+train_loss: 0.010980372317135334, step : 45800
+Epoch	110	Loss	0.0
+train_loss: 0.00823783129453659, step : 46000
+train_loss: 0.011138860136270523, step : 46200
+Epoch	111	Loss	0.0
+train_loss: 0.014111376367509365, step : 46400
+train_loss: 0.009597056545317173, step : 46600
+Epoch	112	Loss	0.0
+train_loss: 0.009374679066240788, step : 46800
+train_loss: 0.008540119044482708, step : 47000
+Epoch	113	Loss	0.0
+train_loss: 0.01092364639043808, step : 47200
+train_loss: 0.00773962726816535, step : 47400
+Epoch	114	Loss	0.0
+train_loss: 0.014154521748423576, step : 47600
+train_loss: 0.01917029730975628, step : 47800
+Epoch	115	Loss	0.0
+train_loss: 0.007897771894931793, step : 48000
+train_loss: 0.013865802437067032, step : 48200
+Epoch	116	Loss	0.0
+train_loss: 0.011929299682378769, step : 48400
+train_loss: 0.008428076282143593, step : 48600
+Epoch	117	Loss	0.0
+train_loss: 0.00866363663226366, step : 48800
+train_loss: 0.009946812875568867, step : 49000
+train_loss: 0.01677578128874302, step : 49200
+Epoch	118	Loss	0.0
+train_loss: 0.009268526919186115, step : 49400
+train_loss: 0.008091780357062817, step : 49600
+Epoch	119	Loss	0.0
+train_loss: 0.010851169005036354, step : 49800
+train_loss: 0.012950430624186993, step : 50000
+Epoch	120	Loss	0.0
+train_loss: 0.00966803077608347, step : 50200
+train_loss: 0.009582048282027245, step : 50400
+Epoch	121	Loss	0.0
+train_loss: 0.012050303630530834, step : 50600
+train_loss: 0.009381640702486038, step : 50800
+Epoch	122	Loss	0.0
+train_loss: 0.006978179328143597, step : 51000
+train_loss: 0.00861321296542883, step : 51200
+Epoch	123	Loss	0.0
+train_loss: 0.008722744882106781, step : 51400
+train_loss: 0.012114489451050758, step : 51600
+Epoch	124	Loss	0.0
+train_loss: 0.009088264778256416, step : 51800
+train_loss: 0.010407006368041039, step : 52000
+Epoch	125	Loss	0.0
+train_loss: 0.00878237746655941, step : 52200
+train_loss: 0.010969371534883976, step : 52400
+Epoch	126	Loss	0.0
+train_loss: 0.008722823113203049, step : 52600
+train_loss: 0.00933681707829237, step : 52800
+Epoch	127	Loss	0.0
+train_loss: 0.010841499082744122, step : 53000
+train_loss: 0.011045385152101517, step : 53200
+Epoch	128	Loss	0.0

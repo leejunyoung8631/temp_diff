@@ -1,0 +1,25 @@
+{
+    "in_channels" : 17,
+    "out_channels" : 17,
+    "latent_channels" : 30,
+    "unet_channels" : 61,
+    "scale_factor" : 8,
+
+    "length" : 128,
+    "text_channels" : 9,
+
+    "autoencoder" : {
+        "encoder_block" : ["DownEncoderBlock1D", "DownEncoderBlock1D", "DownEncoderBlock1D", "DownEncoderBlock1D"],
+        "decoder_block" :["UpDecoderBlock1D", "UpDecoderBlock1D", "UpDecoderBlock1D", "UpDecoderBlock1D"],
+        "n_layers_per_block" : 2,
+        "block_out_channels" : [128, 256, 512, 512 ],
+        "act_fn" : "silu",
+        "norm_num_groups" : 32
+    },
+    "unet" : {
+        "temp" : 1
+    },
+    "clip" : {
+        "temp" : 1
+    }
+}
